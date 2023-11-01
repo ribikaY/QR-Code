@@ -56,17 +56,3 @@
     padding-top: 1rem;
     color: hsl(220, 15%, 55%);
 }
-
-@media (min-width: 1440px) {
-    .wrapper{
-        height: 100vh;
-        overflow: hidden;
-        display: flex;
-    }
-    .card-container{
-        width:90%;
-        min-height: 730px;
-        margin: auto;
-        box-shadow: rgba(50, 50, 93, 0.247) 0px 30px 100px -20px, rgba(0, 0, 0, 0.103) 0px 40px 60px -30px;
-    }
-}
