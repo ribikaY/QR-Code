@@ -47,6 +47,7 @@
 }
 
 .card-caption-title{
+    font-size: 22px;
     line-height: 1.8rem;
     color: hsl(218, 44%, 22%);
 }
