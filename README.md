@@ -17,7 +17,7 @@ This is a solution to the QR code component challenge on Frontend Mentor done us
 
 ### Screenshot
 
-![](./assets/images/desktop-screenshot.png)
+![](./assets/images/desktop-cropped-screenshot.png)
 
 
 ### Links
